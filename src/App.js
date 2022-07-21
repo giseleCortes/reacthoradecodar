@@ -1,23 +1,22 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>O que é REACT</h1>
+      <p> É uma biblioteca JS para criaçao de interfaces. Uma Lib; </p>
+      <p> Utilizado para construir SPAs (Single Page Application); </p>
+      <p> Baseado em componentes; </p>
+      <p> Utiliza o JSX para renderizar HTML (java script e js escritos em js);</p>
+      <p> Aplica o Virtual DOM para realizar as alterações do DOM; </p>
+      <p> Podemos adicionar a um projeto ou criar um projeto com ele;</p>
+
+      <h1> Como instalar o React? </h1>
+
+      <p> Para instalar o React vamos utilizar uma ferramenta chamada Create React App; </p>
+      <p> Para utilizar precisamos do Node e npm (yarn);</p>
+
+
     </div>
   );
 }

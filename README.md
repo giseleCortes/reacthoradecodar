@@ -10,3 +10,14 @@
 
 #### Para instalar o React vamos utilizar uma ferramenta chamada Create React App; 
 #### Para utilizar precisamos do Node e npm (yarn);
+
+## JSX
+
+#### O JSX é como um HTML, porém dentro do código JavaScript;
+#### É a principal maneira de escrever HTML com o React;
+#### Podemos interporlar variáveis, inserindo ela entre {};
+#### É possivel também executar funções em JSX;
+#### Inserir valores em atributos de tags também é valido em JSX;
+#### Todos os elementos em JSX devem entar dentro de uma div pai. Não nessessáriamente um Div mais deve haver um elemento pai
+
+# class é uma palavra reservada do React então ao declarar o atributo class devemos declarar como className

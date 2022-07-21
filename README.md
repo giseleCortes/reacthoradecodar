@@ -20,4 +20,4 @@
 #### Inserir valores em atributos de tags também é valido em JSX;
 #### Todos os elementos em JSX devem entar dentro de uma div pai. Não nessessáriamente um Div mais deve haver um elemento pai
 
-# class é uma palavra reservada do React então ao declarar o atributo class devemos declarar como className
+### class é uma palavra reservada do React então ao declarar o atributo class devemos declarar como className

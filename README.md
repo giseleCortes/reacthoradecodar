@@ -1,3 +1,6 @@
+https://illustrious-belekoy-9d746b.netlify.app/
+
+
 ## O que é REACT
 #### É uma biblioteca JS para criaçao de interfaces. Uma Lib; 
 #### Utilizado para construir SPAs (Single Page Application); 
@@ -31,6 +34,9 @@
 ##### logo todo componente terá a função export como o App.js para podermos uriliza-lo em outras partes do código
 #### Normalmente ficam em uma pasta chamada components;
 #### Componentes podem ser importados dentro de outros componentes que não sejam necessáriamente o APP.js</
+
+
+https://illustrious-belekoy-9d746b.netlify.app/
 
 
 

@@ -21,3 +21,16 @@
 #### Todos os elementos em JSX devem entar dentro de uma div pai. Não nessessáriamente um Div mais deve haver um elemento pai
 
 ### class é uma palavra reservada do React então ao declarar o atributo class devemos declarar como className
+
+## Componentes
+
+#### Permite dividir a aplicação em partes;
+#### Os componentes renderizam JSX, assim como App.js ( que é um componente)
+##### Ele é o principal, a ideia é que ele tenha menos código
+#### Precisamos criar um arquivo de componente e importa-lo onde precisamos utilizar;
+##### logo todo componente terá a função export como o App.js para podermos uriliza-lo em outras partes do código
+#### Normalmente ficam em uma pasta chamada components;
+#### Componentes podem ser importados dentro de outros componentes que não sejam necessáriamente o APP.js</
+
+
+

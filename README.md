@@ -30,7 +30,16 @@
 #### Precisamos criar um arquivo de componente e importa-lo onde precisamos utilizar;
 ##### logo todo componente terá a função export como o App.js para podermos uriliza-lo em outras partes do código
 #### Normalmente ficam em uma pasta chamada components;
-#### Componentes podem ser importados dentro de outros componentes que não sejam necessáriamente o APP.js</
+#### Componentes podem ser importados dentro de outros componentes que não sejam necessáriamente o APP.js
+
+## Props
+
+#### As props são valores passados para componentes;
+#### Podemos deixá-los dinâmicos
+#### Ou seja, mudando a execução por causa do valor da prop;
+#### O valor é passado como um atributo na chamada do componente;
+#### E precisa ser resgatado dentro de uma propriedade/argumento chamada props na função de definição do componente;
+#### As props são somente de leituira!
 
 
 

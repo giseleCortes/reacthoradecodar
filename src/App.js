@@ -1,4 +1,4 @@
-import './App.css';
+import './App.css'
 import Print from './images/img1.png'
 import exFuncao from './images/img2.png'
 import divPai from './images/img3.png'
@@ -9,6 +9,8 @@ import importandoComponete from './images/img6.png'
 import chamando from './images/img7.png'
 import reutilizando from  './images/img8.png'
 import resultado from './images/img9.png'
+import SayMyName from './components/SayMyName'
+
 
 
 function App() {
